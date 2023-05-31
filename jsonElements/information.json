@@ -1,0 +1,48 @@
+[
+  {
+    "link": "/product/sound.svg",
+    "title": "Enhanced",
+    "grad": "Sound Quality",
+    "subTitle": "By directly connecting a microphone to a violin, you can capture the natural and authentic sound of the instrument without any interference or loss of quality. This can result in a more accurate representation of the violin's tone and timbre.",
+    "id": 1
+  },
+
+  {
+    "link": "/product/amplification.svg",
+    "title": "Improved",
+    "grad": "Amplification",
+    "subTitle": "When performing in larger venues or alongside other instruments, amplification becomes necessary. By connecting a microphone directly to the violin, you can effectively amplify the sound without sacrificing its original characteristics. This allows for better projection and ensures that the violin's nuances are not lost in the amplification process.",
+    "id": 2
+  },
+
+  {
+    "link": "/product/versatility.svg",
+    "title": "Versatility",
+    "subTitle": "Using a microphone that connects directly to the violin offers versatility in terms of sound reinforcement. You can easily adjust the microphone's placement and position to achieve different tones and effects. This flexibility allows violinists to adapt their sound to different musical styles and performance contexts.",
+    "id": 3
+  },
+
+  {
+    "link": "/product/mic.svg",
+    "title": "Authentic",
+    "grad": "Recording",
+    "subTitle": "When recording a violin, capturing its true essence is crucial. By connecting a microphone directly to the instrument, you can achieve a more authentic and natural recording. This is especially beneficial in studio settings where capturing the violin's nuances and dynamics accurately is of utmost importance.",
+    "id": 4
+  },
+
+  {
+    "link": "/product/use.svg",
+    "title": "Ease",
+    "grad": "of Use",
+    "subTitle": "Connecting a microphone directly to a violin eliminates the need for additional equipment such as external pickups or clip-on microphones. This streamlines the setup process and reduces the complexity of the audio setup, making it more convenient for musicians, especially during live performances.",
+    "id": 5
+  },
+
+  {
+    "link": "/product/feedback.svg",
+    "title": "Minimal",
+    "grad": "Feedback",
+    "subTitle": "When using a microphone in close proximity to a violin, feedback can be a concern. However, connecting the microphone directly to the instrument can help minimize feedback issues. The close proximity of the microphone to the sound source allows for better control and reduction of unwanted feedback, resulting in a cleaner and more stable sound.",
+    "id": 6
+  }
+]

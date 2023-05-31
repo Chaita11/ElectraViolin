@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Safe",
+    "grad": "Delivery",
+    "info": "Free shipping when you spend over $100. We always guarantee safe delivery to your door.",
+    "id": 1
+  },
+
+  {
+    "title": "Professional",
+    "grad": "Services",
+    "info": "We're here to help! There isn't a question too big or too small. Give us a call, email or chat with a Fiddlershop Family member",
+    "id": 2
+  },
+
+  {
+    "title": "Happiness",
+    "grad": "Guaranteed",
+    "info": "Fiddlershop is built to serve and support the string community. Making customers happy is our forte!",
+    "id": 3
+  },
+  {
+    "title": "25-Day",
+    "grad": "Returns",
+    "info": "We know that shopping online can be tricky. You can try and return within 25 days for a full refund.",
+    "id": 4
+  }
+]
