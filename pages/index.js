@@ -21,13 +21,25 @@ export default function Home() {
             </h1>
             {/* </motion.div> */}
           </div>
-          <div className={styles.containerImage}>
-            <Image
-              src="/thirteen  .svg"
-              width={500}
-              height={500}
-              className={styles.rotatingImage}
-            />
+          <div className={styles.ContainerBruh}>
+            <div className={styles.containerImage}>
+              <Image
+                src="/electraviolinhome.jpg"
+                width={480}
+                height={300}
+                className={styles.Image}
+                draggable="false"
+              />
+              <p className={styles.introProduct}>
+                At Acoustic Arts, we have developed an innovative product that
+                seamlessly connects a microphone directly to your violin,
+                unlocking a world of enhanced sound and performance. Experience
+                the true beauty and power of your instrument with our
+                cutting-edge technology. Get ready to amplify your violin's
+                voice like never before!
+              </p>
+              {/* <Image src="/electraviolin.png" width={1920} height={1080} /> */}
+            </div>
           </div>
         </div>
       </main>

@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 768px;
+    margin: 0 auto;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 2rem 1rem 3rem;
+}
+
+.Links{
+    text-decoration: none;
+    color: #b6a7ff;
+    transition: 0.175s ease-in-out;
+}
+
+.Links:hover{
+    color: rgb(209 213 219);
+}
+
+.linksContainer{
+    display: flex;
+    flex-direction: column;
+    gap:0.2rem;
+}
